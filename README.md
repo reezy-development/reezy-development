@@ -25,7 +25,7 @@ Link: [Link](http://solisnetwork.xyz/)
 ## Soziale Medien
 
 - [Twitter](https://twitter.com/blvck_reezy)
-- [LinkedIn](Link zu deinem LinkedIn-Profil)
+- [Instagram](https://www.instagram.com/off_.jxstin/)
 
 ## GitHub-Statistiken
 
