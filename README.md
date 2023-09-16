@@ -8,7 +8,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin Reezy-Development, und ich interess
 
 - 🔭 Ich arbeite an MySMP, Solisnetwork.
 - 🌱 Ich lerne gerade C++
-- 📫 So erreichst du mich: managment@reezy-development.de
+- 📫 So erreichst du mich: managment@reezy.dev
 - 😄 Pronomen: he/him
 
 ## Projekte
