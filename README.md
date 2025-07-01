@@ -2,6 +2,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 =============================================================================================================================
 
 I'm **Reezy** – Web Developer and Java Developer  
+![Reezy](https://github.com/logsy/.github/blob/684cb2619fce2555707d3e3d6e0a3b3942643f87/reezy256x256.png)
 -----------------------------------------------
 
 With six years of programming experience, I specialize in **web development** and **Java**. My coding journey began with a career switch, diving into HTML, and gradually finding my passion in backend engineering. Today, I excel in creating dynamic web applications using **Next.js** and crafting elegant designs with **Tailwind CSS**.
