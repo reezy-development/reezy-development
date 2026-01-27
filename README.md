@@ -37,6 +37,8 @@ src="https://img.shields.io/twitch/status/verdreckt?logo=twitchsx&style=for-the-
 <a href="https://www.twitch.tv/verdreckt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" /></a>
 </p>
 
+<a style="padding-left: 100px">[![Discord Presence](https://lanyard.cnrad.dev/api/480290501979930624?hideBadges=false)](https://discord.com/users/480290501979930624)</a>
+
 ---
 
 ### 📊 GitHub Stats
