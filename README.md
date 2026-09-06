@@ -32,16 +32,11 @@ Visit [my portfolio](https://reezy.dev/) or connect with me on:
 
 <br>
 
-<sup>
-
 Six years of programming experience. My journey started with a career switch into HTML
 and gradually led me into backend engineering. Today I build dynamic web applications
 with **Next.js** and craft designs with **Tailwind CSS**.
-Currently working on [**Logsy**](https://github.com/logsy).
 
-</sup>
-
-<br>
+🚀ㅤCurrently working on [**Logsy**](https://github.com/logsy)
 
 ---
 
