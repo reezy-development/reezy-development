@@ -113,7 +113,7 @@ with **Next.js** and craft designs with **Tailwind CSS**.
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        1 day
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        21 days
 ```
 
@@ -147,12 +147,12 @@ Java                      13 repos            ████░░░░░░░�
 JavaScript                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43%
 Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23%
 Rust                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02%
-Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-Kotlin                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Kotlin                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 ```
 
 **💬 Languages & Tools**
@@ -176,7 +176,7 @@ PHP                       1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Thu, 10 Sep 2026 06:52:11 CEST*
+⏳ *Last updated on Sat, 12 Sep 2026 06:43:36 CEST*
 <!--END_SECTION:fun-facts-->
 
 <br>
