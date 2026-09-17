@@ -113,29 +113,29 @@ with **Next.js** and craft designs with **Tailwind CSS**.
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        1 day
+🔥 Current Streak:        3 days
 🏆 Longest Streak:        21 days
 ```
 
 **🕒 I'm A Night Owl 🦉**
 
 ```text
-🌅 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75%
-🌞 Daytime                305 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83%
-🌆 Evening                414 commits         ███████░░░░░░░░░░░░░░░░░░   28.28%
-🌙 Night                  573 commits         ██████████░░░░░░░░░░░░░░░   39.14%
+🌅 Morning                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62%
+🌞 Daytime                306 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68%
+🌆 Evening                425 commits         ███████░░░░░░░░░░░░░░░░░░   28.72%
+🌙 Night                  577 commits         ██████████░░░░░░░░░░░░░░░   38.99%
 ```
 
 **📅 I'm Most Productive on Saturday**
 
 ```text
-Sunday                    217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82%
-Monday                    244 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-Tuesday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70%
-Wednesday                 156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66%
-Thursday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25%
-Friday                    237 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19%
-Saturday                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72%
+Sunday                    217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66%
+Monday                    244 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49%
+Tuesday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59%
+Wednesday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55%
+Thursday                  151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20%
+Friday                    237 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01%
+Saturday                  318 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49%
 ```
 
 **🔥 I Mostly Code in Lua**
@@ -147,36 +147,36 @@ Java                      13 repos            ████░░░░░░░�
 JavaScript                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43%
 Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23%
 Rust                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02%
-CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Kotlin                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-Kotlin                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 ```
 
 **💬 Languages & Tools**
 
-![Lua](https://img.shields.io/badge/Lua-30.59%25-000080?&logo=Lua&labelColor=151b23)
-![TypeScript](https://img.shields.io/badge/TypeScript-30.38%25-3178c6?&logo=TypeScript&labelColor=151b23)
-![Java](https://img.shields.io/badge/Java-18.09%25-b07219?&logo=Java&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-06.52%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![TypeScript](https://img.shields.io/badge/TypeScript-30.47%25-3178c6?&logo=TypeScript&labelColor=151b23)
+![Lua](https://img.shields.io/badge/Lua-30.43%25-000080?&logo=Lua&labelColor=151b23)
+![Java](https://img.shields.io/badge/Java-17.99%25-b07219?&logo=Java&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-06.49%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-05.41%25-563d7c?&logo=CSS&labelColor=151b23)
-![Rust](https://img.shields.io/badge/Rust-03.15%25-dea584?&logo=Rust&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-02.60%25-083fa1?&logo=Markdown&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-01.13%25-e34c26?&logo=HTML&labelColor=151b23)
+![Rust](https://img.shields.io/badge/Rust-03.35%25-dea584?&logo=Rust&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-02.62%25-083fa1?&logo=Markdown&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-01.12%25-e34c26?&logo=HTML&labelColor=151b23)
 ![SQL](https://img.shields.io/badge/SQL-00.70%25-e38c00?&logo=SQL&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.50%25-89e051?&logo=Shell&labelColor=151b23)
 ![Python](https://img.shields.io/badge/Python-00.26%25-3572A5?&logo=Python&labelColor=151b23)
 ![SCSS](https://img.shields.io/badge/SCSS-00.23%25-c6538c?&logo=SCSS&labelColor=151b23)
 ![Kotlin](https://img.shields.io/badge/Kotlin-00.22%25-A97BFF?&logo=Kotlin&labelColor=151b23)
-![PowerShell](https://img.shields.io/badge/PowerShell-00.19%25-012456?&logo=PowerShell&labelColor=151b23)
+![PowerShell](https://img.shields.io/badge/PowerShell-00.18%25-012456?&logo=PowerShell&labelColor=151b23)
 ![PHP](https://img.shields.io/badge/PHP-00.04%25-4F5D95?&logo=PHP&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on Wed, 16 Sep 2026 06:57:01 CEST*
+⏳ *Last updated on Thu, 17 Sep 2026 07:00:35 CEST*
 <!--END_SECTION:fun-facts-->
 
 <br>
