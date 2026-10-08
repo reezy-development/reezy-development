@@ -149,10 +149,10 @@ Markdown                  6 repos             ██░░░░░░░░░�
 Rust                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02%
 Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41%
 HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 ```
 
 **💬 Languages & Tools**
@@ -177,7 +177,7 @@ Python                    1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Wed, 07 Oct 2026 08:09:16 CEST*
+⏳ *Last updated on Thu, 08 Oct 2026 08:14:41 CEST*
 <!--END_SECTION:fun-facts-->
 
 <br>
