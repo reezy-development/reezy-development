@@ -149,35 +149,35 @@ Markdown                  6 repos             ██░░░░░░░░░�
 Rust                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02%
 Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41%
 Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 ```
 
 **💬 Languages & Tools**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-30.91%25-3178c6?&logo=TypeScript&labelColor=151b23)
-![Lua](https://img.shields.io/badge/Lua-29.81%25-000080?&logo=Lua&labelColor=151b23)
-![Java](https://img.shields.io/badge/Java-17.61%25-b07219?&logo=Java&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-06.33%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![CSS](https://img.shields.io/badge/CSS-05.99%25-563d7c?&logo=CSS&labelColor=151b23)
-![Rust](https://img.shields.io/badge/Rust-03.25%25-dea584?&logo=Rust&labelColor=151b23)
-![Markdown](https://img.shields.io/badge/Markdown-02.51%25-083fa1?&logo=Markdown&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-01.03%25-e34c26?&logo=HTML&labelColor=151b23)
-![SQL](https://img.shields.io/badge/SQL-00.69%25-e38c00?&logo=SQL&labelColor=151b23)
+![TypeScript](https://img.shields.io/badge/TypeScript-31.10%25-3178c6?&logo=TypeScript&labelColor=151b23)
+![Lua](https://img.shields.io/badge/Lua-29.99%25-000080?&logo=Lua&labelColor=151b23)
+![Java](https://img.shields.io/badge/Java-17.12%25-b07219?&logo=Java&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-06.37%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-06.03%25-563d7c?&logo=CSS&labelColor=151b23)
+![Rust](https://img.shields.io/badge/Rust-03.27%25-dea584?&logo=Rust&labelColor=151b23)
+![Markdown](https://img.shields.io/badge/Markdown-02.52%25-083fa1?&logo=Markdown&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-01.04%25-e34c26?&logo=HTML&labelColor=151b23)
+![SQL](https://img.shields.io/badge/SQL-00.70%25-e38c00?&logo=SQL&labelColor=151b23)
 ![Python](https://img.shields.io/badge/Python-00.48%25-3572A5?&logo=Python&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.47%25-89e051?&logo=Shell&labelColor=151b23)
 ![Kotlin](https://img.shields.io/badge/Kotlin-00.45%25-A97BFF?&logo=Kotlin&labelColor=151b23)
 ![SCSS](https://img.shields.io/badge/SCSS-00.21%25-c6538c?&logo=SCSS&labelColor=151b23)
 ![PowerShell](https://img.shields.io/badge/PowerShell-00.19%25-012456?&logo=PowerShell&labelColor=151b23)
-![PHP](https://img.shields.io/badge/PHP-00.03%25-4F5D95?&logo=PHP&labelColor=151b23)
+![PHP](https://img.shields.io/badge/PHP-00.04%25-4F5D95?&logo=PHP&labelColor=151b23)
 ![Svelte](https://img.shields.io/badge/Svelte-00.03%25-ff3e00?&logo=Svelte&labelColor=151b23)
 
 
 
 
-⏳ *Last updated on Wed, 14 Oct 2026 07:02:15 CEST*
+⏳ *Last updated on Thu, 15 Oct 2026 06:50:46 CEST*
 <!--END_SECTION:fun-facts-->
 
 <br>
