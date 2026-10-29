@@ -113,7 +113,7 @@ with **Next.js** and craft designs with **Tailwind CSS**.
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        4 days
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        21 days
 ```
 
@@ -148,11 +148,11 @@ JavaScript                7 repos             ██░░░░░░░░░�
 Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23%
 Rust                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02%
 Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41%
+CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
+HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-CSS                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
-Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20%
 ```
 
 **💬 Languages & Tools**
@@ -177,7 +177,7 @@ Python                    1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Wed, 28 Oct 2026 06:52:04 CET*
+⏳ *Last updated on Thu, 29 Oct 2026 06:57:34 CET*
 <!--END_SECTION:fun-facts-->
 
 <br>
