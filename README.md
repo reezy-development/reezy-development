@@ -113,7 +113,7 @@ with **Next.js** and craft designs with **Tailwind CSS**.
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        8 days
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        21 days
 ```
 
@@ -145,13 +145,13 @@ Lua                       33 repos            █████████░░�
 TypeScript                16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18%
 Java                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.91%
 JavaScript                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95%
-Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82%
 Rust                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82%
+Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82%
 Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27%
-HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
-PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
-Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
 Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
+Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
+PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
+HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
 ```
 
 **💬 Languages & Tools**
@@ -177,7 +177,7 @@ Python                    1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Sat, 07 Nov 2026 07:09:16 CET*
+⏳ *Last updated on Sun, 08 Nov 2026 07:13:07 CET*
 <!--END_SECTION:fun-facts-->
 
 <br>
