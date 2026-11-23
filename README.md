@@ -113,51 +113,51 @@ with **Next.js** and craft designs with **Tailwind CSS**.
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        6 days
+🔥 Current Streak:        8 days
 🏆 Longest Streak:        21 days
 ```
 
 **🕒 I'm A Night Owl 🦉**
 
 ```text
-🌅 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95%
-🌞 Daytime                410 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33%
-🌆 Evening                474 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50%
-🌙 Night                  892 commits         ███████████░░░░░░░░░░░░░░   44.22%
+🌅 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
+🌞 Daytime                410 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29%
+🌆 Evening                475 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50%
+🌙 Night                  895 commits         ███████████░░░░░░░░░░░░░░   44.29%
 ```
 
 **📅 I'm Most Productive on Saturday**
 
 ```text
-Sunday                    284 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08%
-Monday                    379 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79%
-Tuesday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20%
-Wednesday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30%
-Thursday                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11%
-Friday                    272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49%
-Saturday                  404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03%
+Sunday                    285 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10%
+Monday                    381 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85%
+Tuesday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17%
+Wednesday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28%
+Thursday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14%
+Friday                    272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46%
+Saturday                  404 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99%
 ```
 
 **🔥 I Mostly Code in Lua**
 
 ```text
-Lua                       33 repos            █████████░░░░░░░░░░░░░░░░   37.50%
-TypeScript                16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18%
-Java                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.91%
-JavaScript                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95%
-Rust                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82%
-Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82%
-Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27%
-Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
-PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
-HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
-Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14%
+Lua                       33 repos            █████████░░░░░░░░░░░░░░░░   37.08%
+TypeScript                17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.10%
+Java                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.73%
+JavaScript                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87%
+Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74%
+Rust                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74%
+Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25%
+Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
+HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
+PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
+Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 ```
 
 **💬 Languages & Tools**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-29.28%25-3178c6?&logo=TypeScript&labelColor=151b23)
-![Lua](https://img.shields.io/badge/Lua-25.70%25-000080?&logo=Lua&labelColor=151b23)
+![TypeScript](https://img.shields.io/badge/TypeScript-29.29%25-3178c6?&logo=TypeScript&labelColor=151b23)
+![Lua](https://img.shields.io/badge/Lua-25.69%25-000080?&logo=Lua&labelColor=151b23)
 ![Java](https://img.shields.io/badge/Java-16.40%25-b07219?&logo=Java&labelColor=151b23)
 ![JavaScript](https://img.shields.io/badge/JavaScript-07.40%25-f1e05a?&logo=JavaScript&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-05.66%25-563d7c?&logo=CSS&labelColor=151b23)
@@ -177,7 +177,7 @@ Python                    1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Sun, 22 Nov 2026 08:01:17 CET*
+⏳ *Last updated on Mon, 23 Nov 2026 08:50:51 CET*
 <!--END_SECTION:fun-facts-->
 
 <br>
