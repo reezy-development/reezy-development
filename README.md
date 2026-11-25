@@ -113,7 +113,7 @@ with **Next.js** and craft designs with **Tailwind CSS**.
 **📈 Coding Streak**
 
 ```text
-🔥 Current Streak:        8 days
+🔥 Current Streak:        0 days
 🏆 Longest Streak:        21 days
 ```
 
@@ -145,12 +145,12 @@ Lua                       33 repos            █████████░░�
 TypeScript                17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.10%
 Java                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.73%
 JavaScript                7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87%
-Rust                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74%
 Markdown                  6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74%
+Rust                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74%
 Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25%
+Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
-Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 ```
 
@@ -177,7 +177,7 @@ Shell                     1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Tue, 24 Nov 2026 11:04:11 CET*
+⏳ *Last updated on Wed, 25 Nov 2026 09:48:18 CET*
 <!--END_SECTION:fun-facts-->
 
 <br>
