@@ -150,8 +150,8 @@ Rust                      6 repos             ██░░░░░░░░░�
 Kotlin                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25%
 PHP                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 Python                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
-HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 Shell                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
+HTML                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12%
 ```
 
 **💬 Languages & Tools**
@@ -177,7 +177,7 @@ Shell                     1 repo              ░░░░░░░░░░░�
 
 
 
-⏳ *Last updated on Thu, 26 Nov 2026 09:32:38 CET*
+⏳ *Last updated on Fri, 27 Nov 2026 09:46:41 CET*
 <!--END_SECTION:fun-facts-->
 
 <br>
